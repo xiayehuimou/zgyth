@@ -10,7 +10,7 @@
 					<dict>
 						<key>kind</key>
 						<string>software-package</string><key>url</key>
-						<string>https://raw.githubusercontent.com/xiayehuimou/zgyth/master/com.gcsoft.cid-fund_1018172637.ipa</string>
+						<string>http://192.168.57.136:7001/zgyth/mobileterminal/getIpa.action</string>
 					</dict>
 					<dict>  
 						<key>kind</key>  
